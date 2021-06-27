@@ -1,1 +1,1 @@
-worker: python3 -m sucifa
+worker: bash Hellbot
