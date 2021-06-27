@@ -1,1 +1,1 @@
-worker: bash sucifa
+worker: bash Hellbot
