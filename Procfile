@@ -1,1 +1,1 @@
-worker: bash SuciFA
+worker: bash sucifa

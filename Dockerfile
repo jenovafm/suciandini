@@ -1,7 +1,7 @@
 FROM teamvaders/hellbot:latest
 
 #clonning repo 
-RUN git clone https://github.com/jenovafm/SuciFA /root/sucifa
+RUN git clone https://github.com/jenovafm/sucifa /root/sucifa
 
 #working directory 
 WORKDIR /root/sucifa
